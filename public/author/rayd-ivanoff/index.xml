@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rayd Ivanoff | MCR</title>
+    <link>https://mcruf.github.io/author/rayd-ivanoff/</link>
+      <atom:link href="https://mcruf.github.io/author/rayd-ivanoff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rayd Ivanoff</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marie-Christine Rufener</copyright><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcruf.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Rayd Ivanoff</title>
+      <link>https://mcruf.github.io/author/rayd-ivanoff/</link>
+    </image>
+    
+    <item>
+      <title>Modelagem espacial bayesiana para riqueza de elasmobranquios do extremo sul do Brasil</title>
+      <link>https://mcruf.github.io/publication/ja-n5/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/publication/ja-n5/</guid>
+      <description>&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+---&gt;
+&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+---&gt;
+&lt;!---Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).---&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

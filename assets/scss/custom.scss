@@ -1,0 +1,159 @@
+/*Change font and font size of Initial at navigation bar*/
+.navbar-brand {
+    font-family: "Bad Script";
+    font-size: 1.8em;
+    /*padding-right: 270px;*/
+
+}
+
+
+/*Change font size of items in navigation bar*/
+.navbar .nav-item {
+    font-size: 0.95rem;
+}
+
+
+/*Change Font size of Academic formation below Name*/
+.portrait-title h3 {
+  font-size: 1.3rem;
+}
+
+
+#about h1 {
+    font-family: "Amatic SC";
+    color: #45B39D;
+}
+
+
+#context h1 {
+    font-family: "Amatic SC";
+    color: #45B39D;
+}
+
+
+#context h2 {
+    font-family: "Cormorant Garamond";
+    color: #FFBF00;
+    font-size: 1.2rem;
+}
+
+
+
+#posts h1 {
+    color: #45B39D;
+}
+
+
+
+#publications h1 {
+    font-family: "Amatic SC";
+    color: #45B39D;
+}
+
+
+
+#talks h1 {
+    font-family: "Amatic SC";
+    color: #45B39D;
+}
+
+#gallery h1 {
+    font-family: "Amatic SC";
+    color: #45B39D;
+}
+
+
+#contact h1 {
+ color: #45B39D;
+}
+
+
+
+/*Change size of bulletpoint in Education*/
+ul.ul-edu li {
+  font-size: 0.8rem;
+}
+
+
+.ul-edu fa-ul{
+  color: #45B39D;
+}
+
+
+.ul-edu title{
+  color: #45B39D;
+}
+
+/*Font size of icons in #about section*/
+.big-icon {
+  font-size: 1.5rem; }
+
+
+/*Distance betwee #about icons and author name & academic education*/
+#profile .network-icon {
+  margin-top: 20px; }
+
+
+/*Text alignment and margins within posts/publications, etc. */
+.article-container {
+  max-width: 850px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  font-size: 20px;
+  text-align: justify;
+}
+
+
+
+.article-title {
+  font-size: 1.8rem;
+  font-family: "Cormorant Garamond";
+}
+
+.gallery {
+  margin: 0.5em -4px 1.5em -4px;
+  font-size: 0;
+}
+
+
+.section-subheading {
+    color: #ffbf00;
+  }
+
+
+
+
+/* Adjust parallax of cover image to fit to any screen*/
+.parallax {
+   background-attachment: fixed;
+   background-size: 100% auto;
+ }
+
+/*
+@media only screen and (max-width:749px) {
+  .parallax {
+    background-attachment: inherit;
+  }
+}
+*/
+
+
+/*
+.home-section  {
+    padding: 20px 0px 0px 0px;
+  }
+*/
+
+/*
+.featurette-icon {
+  font-size: 4rem;
+}
+*/
+
+/*
+ul > li::marker {
+  font-size: 1.125em;
+  color: #45B39D;
+}*/
+
+

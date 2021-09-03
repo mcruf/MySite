@@ -1,0 +1,24 @@
+# Hugo basic configuration
+# See Hugo documentation @: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# Note: This file is formatted using TOML syntax - learn more @ https://learnxinyminutes.com/docs/toml/
+
+
+#####################
+#    Basic inputs   #
+####################
+
+## URL of the website you want to host your page
+baseURL = "https://mcruf.github.io/"
+
+## Title of your webpage
+title = "Marie-Christine Rufener"
+
+## Copyright notice on your site's footer
+theme = "academic"
+
+languageCode = "en-us"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
