@@ -90,7 +90,5 @@ I'm a biologist with a MSc degree in biological oceanography (FURG - Brazil) and
 
 </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_03-09-21.pdf" "newtab" >}}CV{{< /staticref >}}.
-
 -------
 

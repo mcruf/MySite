@@ -11,7 +11,7 @@ active: true
 weight: 20
 
 title: A little more context...
-subtitle: -- Who am I?  <br />  -- Academic journey  <br /> -- What do I do?  <br /> -- Present
+subtitle: -- Who am I?  <br />  -- Academic journey  <br /> -- What do I do? 
 
 design:
   columns: '2'
@@ -49,7 +49,8 @@ I've spent the bulk of my time applying and implementing these models within the
 Last but not least, as more than ever everything has become very visual in our society, I like to spend time displaying information graphically (I can spend countless hours to produce the perfect plot!). I'm most fond of mapping (when **GIS data** are in hand), but overall I like anything that involves **visual data communication**.
 
 ---------------------------------------
+<!---
 ## **Present**
 Although Academia has been (and will always be!) an integral part of me and my life, I've been feeling moving towards more applied fields where I can use my statistical/data analytical expertise more broadly. Over the course of the years, I realized that I'm truly passionate about data science and everything in between - especially because it frees me to engage in whatever science I'm interested in!  Irrespective of field, statistics provides a solid means to understand complex data structures and extract from them patterns and meanings that would otherwise be difficult. I'm constantly seeking to improve my skills with cutting-edge methods, as I like to provide good quality work to answer questions at hand with confidence.
-
+-->
 </div>
