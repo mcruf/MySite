@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando D&#39;Incao | MCR</title>
+    <link>https://mcruf.github.io/author/fernando-dincao/</link>
+      <atom:link href="https://mcruf.github.io/author/fernando-dincao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando D&#39;Incao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marie-Christine Rufener</copyright><lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcruf.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Fernando D&#39;Incao</title>
+      <link>https://mcruf.github.io/author/fernando-dincao/</link>
+    </image>
+    
+    <item>
+      <title>Distribution and abundance of post-larvae and juvenile pink shrimp Farfantepenaeus paulensis (Perez Farfante, 1967) in a subtropical estuary</title>
+      <link>https://mcruf.github.io/publication/ja-n3/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/publication/ja-n3/</guid>
+      <description>&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+---&gt;
+&lt;!---&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+---&gt;
+&lt;!---Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).---&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

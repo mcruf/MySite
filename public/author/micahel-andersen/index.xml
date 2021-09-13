@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micahel Andersen | MCR</title>
+    <link>https://mcruf.github.io/author/micahel-andersen/</link>
+      <atom:link href="https://mcruf.github.io/author/micahel-andersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Micahel Andersen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marie-Christine Rufener</copyright><lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcruf.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Micahel Andersen</title>
+      <link>https://mcruf.github.io/author/micahel-andersen/</link>
+    </image>
+    
+    <item>
+      <title>Challenges in Implementing Stock Assessment, Economic Fishery Analysis, and Risk Assessment for Sustainable Management Strategies of Data Poor Stocks</title>
+      <link>https://mcruf.github.io/publication/conference-paper/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

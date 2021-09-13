@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses &amp; Talks | MCR</title>
+    <link>https://mcruf.github.io/event/</link>
+      <atom:link href="https://mcruf.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses &amp; Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Â© 2021 Marie-Christine Rufener</copyright><lastBuildDate>Mon, 19 Apr 2021 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcruf.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Courses &amp; Talks</title>
+      <link>https://mcruf.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>(Course) Fisheries data integration - a spatio-temporal SDM framework with the LGNB model</title>
+      <link>https://mcruf.github.io/talk/course-fisheries-data-integration-a-spatio-temporal-sdm-framework-with-the-lgnb-model/</link>
+      <pubDate>Mon, 19 Apr 2021 11:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/talk/course-fisheries-data-integration-a-spatio-temporal-sdm-framework-with-the-lgnb-model/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://github.com/mcruf/LGNB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LGNB model&lt;/strong&gt;&lt;/a&gt; is essentially a state-space species distribution model (hence LGNB-SDM) that can integrate two major data sources used within fisheries science, namely fishery-dependent (opportunistic) and fishery-independent (survey) data. Each data source relies on different sampling designs, hampering therefore their integration in a unifying framework. Despite their multiple pitfalls, the two data source provide complementary information which could greatly improve our understading of a species&#39; spatio-temporal dynamics, and ultimately guide better fisheries management practices. The LGNB-SDM was thus developed with the main goal to bridge the gap between the two data sources. Within the LGNB-SDM framework,the relative bias contribution of a species&#39; abundance estimator is filtered out with respect to each data source, providing as such improved abundance estimates and knowledge on it&amp;rsquo;s spatial distribution.&lt;/p&gt;
+&lt;!--
+!&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;!--Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Talk) How and why do we count fish? From biology to management of fishery resources</title>
+      <link>https://mcruf.github.io/talk/talk-how-and-why-do-we-count-fish-from-biology-to-management-of-fishery-resources/</link>
+      <pubDate>Mon, 19 Apr 2021 11:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/talk/talk-how-and-why-do-we-count-fish-from-biology-to-management-of-fishery-resources/</guid>
+      <description>&lt;p&gt;&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Talk) Pooling fishery-dependent and -independent data to model species spatio-temporal dynamics - a framework for data boosting and multiple bias correction</title>
+      <link>https://mcruf.github.io/talk/talk-pooling-fishery-dependent-and-independent-data-to-model-species-spatio-temporal-dynamics-a-framework-for-data-boosting-and-multiple-bias-correction/</link>
+      <pubDate>Thu, 03 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/talk/talk-pooling-fishery-dependent-and-independent-data-to-model-species-spatio-temporal-dynamics-a-framework-for-data-boosting-and-multiple-bias-correction/</guid>
+      <description>&lt;p&gt;The monitoring and assessment of fishery resources rely on two main datasets, namely: commercial fisheries (fishery-dependent) and scientific survey (fishery-independent) data. The monitoring includes mapping the fishery-resources to assess their spatio-temporal dynamics, procedure often conducted through statistical models that usually focus on one data type at a time. Due to their different aims, the sampling design of these data provides distinct levels of bias and consequently hampers their coupling in a joint-likelihood modelling approach. However, if these biases are properly accounted, it is hypothesized that a complete picture and more robust abundance estimates could be achieved by such a model. The main objective hereby was to develop a flexible statistical framework that can compare and integrate these datasets while accounting for their relative bias contributions. As such, a Negative Binomial Cox Process model (NBCP) was designed in Template Model Builder (TMB), where several abundance-related response-variables can be specified and differences in fishing catchability and effort, trawled distance and spatio-temporal correlations can be accounted. Special attention was given to correct the preferential-sampling nature of the fishery-dependent data. To demonstrate its broad applicability, the model was applied on data-rich and -poor stocks from the Kattegat-Western Baltic Sea. For each case study, the NBCP model was tested on (i) commercial, (ii) survey, and (iii) coupled data to assess their differences and evaluate the improvements in abundance estimates. The results revealed that each data source supplied different, yet complementary, information on the species dynamics. Moreover, they confirmed that more precise abundance estimates were obtained by the integrated set-up, especially for the data-poor stocks and where the preferential-sampling bias was considered. Although the fishermen&amp;rsquo;s prevailed sampling behaviour can still be improved, the proposed NBCP model will likely support future stock management and is particularly a benchmark for data-poor stocks due to the boosting of information.&lt;/p&gt;
+&lt;!--
+!&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;!--Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Talk) Coupling commercial fisheries and survey data - a practical solution to boost the amount of information in data-poor context</title>
+      <link>https://mcruf.github.io/talk/talk-coupling-commercial-fisheries-and-survey-data-a-practical-solution-to-boost-the-amount-of-information-in-data-poor-context/</link>
+      <pubDate>Wed, 18 Jul 2018 10:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/talk/talk-coupling-commercial-fisheries-and-survey-data-a-practical-solution-to-boost-the-amount-of-information-in-data-poor-context/</guid>
+      <description>&lt;p&gt;Quantitative fish stock assessment methods have become increasingly complex. However, the quality of available data may still restrict their applicability, being a particular concern in data-poor situations and where management decisions rely on either commercial fisheries or scientific survey data. In this study we address this issue by proposing a flexible statistical tool that can compare and integrate both datasets simultaneously, and hence boost the amount of information. Because of different sampling designs and procedures, distinct levels of biases arise between datatypes (e.g., different spatio-temporal coverages and size spectra of fish), which are accounted for in our model framework. The model is developed in Template Model Builder, alternatively applied to (i) commercial data, (ii) survey data and (iii) coupled datasets, and tested on cod, plaice and sprat stocks in the western Baltic Sea (2005-2016). We find that each data type supply different, yet complementary, information on the species spatio-temporal dynamics. Though the overall spatial pattern in both datatypes shows similar trends, the variability was clearly higher when evaluating the datasets separately, while the coupled dataset were most informative. This confirms that the predictive modelling was greatly improved by joining the datasets and will likely enhance future stock evaluation and management advice in both data-poor and data-rich contexts. Moreover, the current tool represent a valuable benchmark for fishery-based bio-economic management evaluation tools, provided that ecological-economic systems can be reliably mocked at a spatio-temporal scale that our model support and which indeed matters for robust management and policy makers.&lt;/p&gt;
+&lt;!--
+!&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;!--Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Talk) Bayesian estimation for length at first maturity of the Lane Snapper Lutjanus synagris (Linnaeus, 1758) in the Rio Grande do Norte coast, Brazil</title>
+      <link>https://mcruf.github.io/talk/talk-bayesian-estimation-for-length-at-first-maturity-of-the-lane-snapper-lutjanus-synagris-linnaeus-1758-in-the-rio-grande-do-norte-coast-brazil/</link>
+      <pubDate>Wed, 22 Jul 2015 11:00:00 +0000</pubDate>
+      <guid>https://mcruf.github.io/talk/talk-bayesian-estimation-for-length-at-first-maturity-of-the-lane-snapper-lutjanus-synagris-linnaeus-1758-in-the-rio-grande-do-norte-coast-brazil/</guid>
+      <description>&lt;p&gt;(Portuguese)
+A estimação do tamanho médio em que 50% dos indivíduos estão maturos (L50) constitui um método extensivamente utilizado pela ciência pesqueira a fim de desenvolver estratégias de manejo para populações que são potencialmente exploradas. Indivíduos da espécie Lutjanus synagris são fortemente explorados pela pesca artesanal no Nordeste e constituem um importante recurso para esta região. Por meio dos parâmetros provenientes da regressão logística, a estimação do L50 foi realizada mediante inferência bayesiana, a qual promove informações valiosas sobre a população de interesse que geralmente não poderiam ser acessada pelos métodos frequentistas quando o tamanho amostral for limitante. O teste de hipótese bayesiano não apontou diferença estatisticamente significativa entre os valores de L50 que foram estimados separadamente para cada um dos sexos. Sendo assim, para a espécie em questão pode-se considerar apenas o L50 calculado conjuntamente para ambos os sexos, cuja mediana foi de 25,19 cm.&lt;/p&gt;
+&lt;!--
+!&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;!--Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
